@@ -1,0 +1,77 @@
+surveysyntax.sps:5: error: RECODE: RECODE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:8: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:12: error: RECODE: RECODE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:15: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:19: error: RECODE: RECODE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:22: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:26: error: RECODE: RECODE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:29: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:33: error: RECODE: RECODE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:36: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:40: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:41: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:43: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:44: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:46: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:48: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:50: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:52: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:54: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:55: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:57: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:58: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:60: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:62: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
+
+surveysyntax.sps:64: error: COMPUTE: COMPUTE is allowed only after the active
+dataset has been defined or inside INPUT PROGRAM.
+
+surveysyntax.sps:65: error: EXECUTE: EXECUTE is allowed only after the active
+dataset has been defined.
